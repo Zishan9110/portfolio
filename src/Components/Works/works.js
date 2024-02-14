@@ -7,6 +7,7 @@ import portfolio4 from '../../Assets/portfolio4.png';
 import portfolio5 from '../../Assets/portfolio5.png';
 import portfolio6 from '../../Assets/portfolio6.png';
 
+
 const Works = () => {
   return (
     <section id="works">
@@ -16,7 +17,7 @@ const Works = () => {
       </div>
       <div className="worksImgs">
              <img src={portfolio1} alt="" className="worksimg" />
-             <img src={portfolio2} alt="" className="worksimg" />
+             <a href="https://zishan9110.github.io/project-2/"><img src={portfolio2} alt="" className="worksimg" /></a>
              <img src={portfolio3} alt="" className="worksimg" />
              <img src={portfolio4} alt="" className="worksimg" />
              <img src={portfolio5} alt="" className="worksimg" />

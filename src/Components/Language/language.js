@@ -1,7 +1,9 @@
 import React from 'react'
 import './language.css';
 import javascript from '../../Assets/javascript.png'; 
-import CPlusplus from '../../Assets/CPlusplus';  
+import CPlusplus from '../../Assets/cPlusplus.png';
+import CLang from '../../Assets/clang.png';
+import Java from '../../Assets/javalang.png';  
 
 const Language = () => {
   return (
@@ -13,8 +15,8 @@ const Language = () => {
         <div className="languageNames">
             <img src={javascript} alt="" className="languageName" />
             <img src={CPlusplus} alt="" className="languageName" />
-            <img src={javascript} alt="" className="languageName" />
-            <img src={javascript} alt="" className="languageName" />
+            <img src={CLang} alt="" className="languageName" />
+            <img src={Java} alt="" className="languageName" />
         </div>
     </section>
   )
