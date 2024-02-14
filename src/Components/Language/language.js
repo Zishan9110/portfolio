@@ -1,6 +1,7 @@
 import React from 'react'
 import './language.css';
 import javascript from '../../Assets/javascript.png'; 
+import CPlusplus from '../../Assets/CPlusplus';  
 
 const Language = () => {
   return (
@@ -11,7 +12,7 @@ const Language = () => {
         </div>
         <div className="languageNames">
             <img src={javascript} alt="" className="languageName" />
-            <img src={javascript} alt="" className="languageName" />
+            <img src={CPlusplus} alt="" className="languageName" />
             <img src={javascript} alt="" className="languageName" />
             <img src={javascript} alt="" className="languageName" />
         </div>
