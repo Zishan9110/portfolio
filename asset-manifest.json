@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.37116277.css",
+    "main.js": "/portfolio/static/js/main.6e38fb48.js",
+    "static/media/Instagram.png": "/portfolio/static/media/Instagram.80e598d8df0c0a94d580.png",
+    "static/media/WebDesign.png": "/portfolio/static/media/WebDesign.fd8be621aa2b45a73295.png",
+    "static/media/AppDesign.png": "/portfolio/static/media/AppDesign.6a6b928dbba58d40daab.png",
+    "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.c402f314a9458382d9ad.png",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.6954f1245ffdb4e56741.png",
+    "static/media/UIDesign.png": "/portfolio/static/media/UIDesign.2639129f003f63eb1fb6.png",
+    "static/media/myImg.png": "/portfolio/static/media/myImg.24b67c3d029eb916e06b.png",
+    "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.dee057cbbf502edbc44c.png",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.55885c5f62daed94ceb6.png",
+    "static/media/portfolio6.png": "/portfolio/static/media/portfolio6.32160a4cebaf7653cacf.png",
+    "static/media/portfolio4.png": "/portfolio/static/media/portfolio4.3a4a327fe19a82a128db.png",
+    "static/media/YouTube.png": "/portfolio/static/media/YouTube.7cedfa3a8bc7d3993313.png",
+    "static/media/Facebook.png": "/portfolio/static/media/Facebook.5ce3a1ca8559b4dc0487.png",
+    "index.html": "/portfolio/index.html",
+    "main.37116277.css.map": "/portfolio/static/css/main.37116277.css.map",
+    "main.6e38fb48.js.map": "/portfolio/static/js/main.6e38fb48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37116277.css",
+    "static/js/main.6e38fb48.js"
+  ]
+}
